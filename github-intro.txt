@@ -1,0 +1,5 @@
+GitHub is an online platform that hoists Git repositories.
+Lets multiple developers wort together on the same project.
+Each project is stored in a repository, hich contains code, history and files.
+Pull requests - developers can copy a repo then make changes and request to merge them.
+Git is a place to store and share Git projects online. 
